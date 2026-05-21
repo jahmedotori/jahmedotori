@@ -11,7 +11,7 @@ Hi, I'm Joseph. I am an Information Security graduate specializing in Cybersecur
 *   **Environment:** Kali Linux executing advanced Nmap arrays (`-sS`, `-Pn`, `-n`) against a minimized Ubuntu target.
 *   **Outcome:** Successfully fingerprinted info-leaking server banners and documented a complete remediation roadmap.
 
-### 2. [Enterprise IT Helpdesk & Ticketing Automation Lab](https://github.com/jahmedotori/it-support-ticketing-lab)
+### 2. [IT Helpdesk & Ticketing Automation Lab](https://github.com/jahmedotori/it-support-ticketing-lab)
 *   **Core Focus:** ITSM operations, SLA compliance tracking, and helpdesk workflow automation.
 *   **Environment:** Zoho Desk admin console configuration simulating corporate Tier 1-3 helpdesk tracks.
 *   **Outcome:** Programmed category-based ticket assignment strings and simulated live lifecycle fixes for network and IAM bugs.
@@ -21,12 +21,12 @@ Hi, I'm Joseph. I am an Information Security graduate specializing in Cybersecur
 *   **Environment:** Kali Linux deployment on Apple Silicon M2 hardware utilizing the UTM hypervisor container.
 *   **Outcome:** Bypassed graphics driver boot crashes via serial terminals and `nomodeset` flags; audited active background services.
 
-### 4. [Enterprise System Security Monitor (Python Toolkit)](https://github.com/jahmedotori/python-security-tools)
+### 4. [System Security Monitor (Python Toolkit)](https://github.com/jahmedotori/python-security-tools)
 *   **Core Focus:** Network socket programming, automation scripting, and system health logging.
 *   **Environment:** Native macOS terminal shell environment running a custom-built Python daemon script.
 *   **Outcome:** Built low-level socket loops using pure Python to scan local port whitelists and alert administrators of storage drops.
 
-### 5. [Enterprise Windows 11 Hypervisor Deployment Lab](https://github.com/jahmedotori/windows-11-deployment-lab)
+### 5. [Windows 11 Hypervisor Deployment Lab](https://github.com/jahmedotori/windows-11-deployment-lab)
 *   **Core Focus:** Windows client administration, image compilation, and driver kernel integration.
 *   **Environment:** Windows 11 Enterprise (ARM64) compiled via CrystalFetch and deployed natively on Apple Silicon.
 *   **Outcome:** Ingested SPICE kernel extensions to optimize display, storage, and network adapters.
